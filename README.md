@@ -1,6 +1,6 @@
 ### Hello there 👋 I'm Shithil Birthi, a passionate professional with a diverse background bridging the realms of healthcare and data science. 
 
-### With a foundation in physiotherapy👨‍⚕️ and a Master's in Hospital and Healthcare Management👨‍💻, I've honed my skills in understanding the intricate dynamics of healthcare systems and patient care.
+### With a Master's in Hospital and Healthcare Management👨‍💻, I've honed my skills in understanding the intricate dynamics of healthcare systems and patient care.
 
 ### My journey led me to the captivating world of data science📚, where I am currently immersed in furthering my expertise. My pursuit of data science stems from a fervent desire to leverage data-driven insights to revolutionize healthcare, optimizing operations, enhancing patient outcomes, and driving innovative solutions.
 
